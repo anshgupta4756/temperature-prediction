@@ -9,8 +9,8 @@ build/
 .env
 .venv/
 venv/
-models/*.pkl
-reports/
+# models/*.pkl
+# reports/
 .DS_Store
 *.log
 .idea/
